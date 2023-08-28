@@ -1,3 +1,4 @@
+Here is a new first bit of text.
 Here is another file.
 Here is a new second line.
 It is also a wonderful file.
