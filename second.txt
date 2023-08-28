@@ -1,3 +1,4 @@
 Here is another file.
 You forgoet to put in a middle line.
+Here is a new second line.
 It is also a wonderful file.
